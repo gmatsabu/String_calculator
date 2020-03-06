@@ -1,0 +1,5 @@
+setup.py
+string_calculator.egg-info/PKG-INFO
+string_calculator.egg-info/SOURCES.txt
+string_calculator.egg-info/dependency_links.txt
+string_calculator.egg-info/top_level.txt
